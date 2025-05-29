@@ -37,7 +37,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <h1 className="text-3xl font-bold text-yellow-300 drop-shadow-lg">
-              🎰 ทางนี้หวยดัง 🎰
+              🔍 ส่องเลขเด็ด 🔍
             </h1>
           </div>
           

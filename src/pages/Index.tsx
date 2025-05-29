@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { AuthProvider, useAuth } from '../contexts/AuthContext';
 import Header from '../components/Header';
@@ -247,10 +246,10 @@ const AppContent: React.FC = () => {
       
       <footer className="bg-gradient-to-r from-cyan-800 to-blue-800 text-white py-8 mt-12">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-2xl font-bold text-yellow-300 mb-2">🎰 ทางนี้หวยดัง 🎰</h2>
+          <h2 className="text-2xl font-bold text-yellow-300 mb-2">🔍 ส่องเลขเด็ด 🔍</h2>
           <p className="text-cyan-200">แหล่งรวมเลขเด็ดและสถิติหวยที่น่าเชื่อถือ</p>
           <div className="mt-4 text-sm text-cyan-300">
-            <p>© 2024 ทางนี้หวยดัง - สงวนลิขสิทธิ์</p>
+            <p>© 2024 ส่องเลขเด็ด - สงวนลิขสิทธิ์</p>
           </div>
         </div>
       </footer>
